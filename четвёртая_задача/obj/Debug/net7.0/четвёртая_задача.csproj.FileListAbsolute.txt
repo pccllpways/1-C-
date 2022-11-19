@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\bin\Debug\net7.0\четвёртая_задача.exe
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\bin\Debug\net7.0\четвёртая_задача.deps.json
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\bin\Debug\net7.0\четвёртая_задача.runtimeconfig.json
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\bin\Debug\net7.0\четвёртая_задача.dll
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\bin\Debug\net7.0\четвёртая_задача.pdb
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\obj\Debug\net7.0\четвёртая_задача.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\obj\Debug\net7.0\четвёртая_задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\obj\Debug\net7.0\четвёртая_задача.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\obj\Debug\net7.0\четвёртая_задача.AssemblyInfo.cs
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\obj\Debug\net7.0\четвёртая_задача.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\obj\Debug\net7.0\четвёртая_задача.dll
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\obj\Debug\net7.0\refint\четвёртая_задача.dll
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\obj\Debug\net7.0\четвёртая_задача.pdb
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\obj\Debug\net7.0\четвёртая_задача.genruntimeconfig.cache
+C:\Users\User\Desktop\1C.С#.DZ\четвёртая_задача\obj\Debug\net7.0\ref\четвёртая_задача.dll
