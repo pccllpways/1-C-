@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\1C.С#.DZ\\вторая задача\\вторая задача.csproj",
-      "projectName": "вторая задача",
-      "projectPath": "C:\\Users\\User\\Desktop\\1C.С#.DZ\\вторая задача\\вторая задача.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\1C.С#.DZ\\четвёртая_задача\\четвёртая_задача.csproj",
+      "projectName": "четвёртая_задача",
+      "projectPath": "C:\\Users\\User\\Desktop\\1C.С#.DZ\\четвёртая_задача\\четвёртая_задача.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\1C.С#.DZ\\вторая задача\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\1C.С#.DZ\\четвёртая_задача\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
