@@ -8,6 +8,10 @@
 Console.WriteLine("Введите число: ");
 string str = Console.ReadLine();
 int number = int.Parse(str);
+if (number < 100)
+{
+    Console.WriteLine("Это двузначное число, третьей циры нет");
+}
 while (number > 1000)
 {
     number = number / 10;
