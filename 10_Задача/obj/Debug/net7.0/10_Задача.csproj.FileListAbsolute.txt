@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\bin\Debug\net7.0\10_Задача.exe
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\bin\Debug\net7.0\10_Задача.deps.json
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\bin\Debug\net7.0\10_Задача.runtimeconfig.json
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\bin\Debug\net7.0\10_Задача.dll
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\bin\Debug\net7.0\10_Задача.pdb
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\obj\Debug\net7.0\10_Задача.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\obj\Debug\net7.0\10_Задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\obj\Debug\net7.0\10_Задача.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\obj\Debug\net7.0\10_Задача.AssemblyInfo.cs
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\obj\Debug\net7.0\10_Задача.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\obj\Debug\net7.0\10_Задача.dll
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\obj\Debug\net7.0\refint\10_Задача.dll
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\obj\Debug\net7.0\10_Задача.pdb
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\obj\Debug\net7.0\10_Задача.genruntimeconfig.cache
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\10_Задача\obj\Debug\net7.0\ref\10_Задача.dll
