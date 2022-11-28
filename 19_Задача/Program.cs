@@ -4,8 +4,7 @@
 Console.WriteLine("Введите пятизначное число: ");
 string str = Console.ReadLine();
 int num = int.Parse(str);
-void palindrom()
-{
+
 if (num >= 10000 && num <= 99999)
 {
     int copy_num = num;
@@ -28,5 +27,4 @@ if (num >= 10000 && num <= 99999)
 else
 {
     Console.WriteLine("Число не пятизначное");
-}
 }

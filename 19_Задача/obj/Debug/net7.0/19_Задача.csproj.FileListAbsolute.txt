@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\bin\Debug\net7.0\19_Задача.exe
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\bin\Debug\net7.0\19_Задача.deps.json
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\bin\Debug\net7.0\19_Задача.runtimeconfig.json
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\bin\Debug\net7.0\19_Задача.dll
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\bin\Debug\net7.0\19_Задача.pdb
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\obj\Debug\net7.0\19_Задача.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\obj\Debug\net7.0\19_Задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\obj\Debug\net7.0\19_Задача.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\obj\Debug\net7.0\19_Задача.AssemblyInfo.cs
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\obj\Debug\net7.0\19_Задача.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\obj\Debug\net7.0\19_Задача.dll
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\obj\Debug\net7.0\refint\19_Задача.dll
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\obj\Debug\net7.0\19_Задача.pdb
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\obj\Debug\net7.0\19_Задача.genruntimeconfig.cache
+C:\Users\User\Desktop\Домашнее задание\1C.С#.DZ\19_Задача\obj\Debug\net7.0\ref\19_Задача.dll
